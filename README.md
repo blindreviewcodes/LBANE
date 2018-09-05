@@ -1,2 +1,2 @@
 # LBANE
-Source codes paper submitted to AAAI. 
+Source codes for the paper submitted to AAAI. 
