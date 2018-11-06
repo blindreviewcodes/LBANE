@@ -1,4 +1,4 @@
 # LBANE
-Source codes for the paper submitted to AAAI. 
+Source codes for a paper on network embedding. 
 
 Run LBANE.m for a demo running on the cora dataset
